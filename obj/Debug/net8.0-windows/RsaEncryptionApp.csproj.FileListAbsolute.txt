@@ -1,0 +1,14 @@
+E:\it\bpz\practice6\RsaEncryptionApp\bin\Debug\net8.0-windows\RsaEncryptionApp.exe
+E:\it\bpz\practice6\RsaEncryptionApp\bin\Debug\net8.0-windows\RsaEncryptionApp.deps.json
+E:\it\bpz\practice6\RsaEncryptionApp\bin\Debug\net8.0-windows\RsaEncryptionApp.runtimeconfig.json
+E:\it\bpz\practice6\RsaEncryptionApp\bin\Debug\net8.0-windows\RsaEncryptionApp.dll
+E:\it\bpz\practice6\RsaEncryptionApp\bin\Debug\net8.0-windows\RsaEncryptionApp.pdb
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.AssemblyInfoInputs.cache
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.AssemblyInfo.cs
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.csproj.CoreCompileInputs.cache
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.dll
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\refint\RsaEncryptionApp.dll
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.pdb
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\RsaEncryptionApp.genruntimeconfig.cache
+E:\it\bpz\practice6\RsaEncryptionApp\obj\Debug\net8.0-windows\ref\RsaEncryptionApp.dll
